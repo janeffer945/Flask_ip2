@@ -1,0 +1,3 @@
+NEWS_API_KEY = '7a66c9e2fdae4141820d7f2881365086'
+SECRET_KEY ='123456789'
+python3.9 manage.py server
